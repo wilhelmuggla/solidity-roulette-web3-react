@@ -38,4 +38,9 @@ body {
 [data-rk] ._1gbc6vu0 {
   position: relative;
   margin: 0 auto;
+
+} .spinnerContainer {
+  height: 498px;
+  padding-top: 30%;
+  text-align: center;
 }
